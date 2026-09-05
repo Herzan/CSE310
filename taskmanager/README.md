@@ -13,7 +13,7 @@ The purpose of writing this software was to practice:
 - Separating data-access functions from the user-interface loop
 - Basic input validation and error handling in a CLI
 
-[Software Demo Video]({PASTE_YOUR_VIDEO_LINK_HERE_OR_DELETE_THIS_LINE})
+[Software Demo Video](https://www.youtube.com/watch?v=tJ3rjOSJtyg)
 
 # Relational Database
 
